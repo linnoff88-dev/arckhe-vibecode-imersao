@@ -782,7 +782,7 @@ app.post('/api/chat', requireAuth(), rateLimit(), async (req, res) => {
           <pre class="text-neutral-300">const rateLimit = require('express-rate-limit');
 const RedisStore = require('rate-limit-redis');
 
-// Rate limit por IP (proteção basica)
+// Rate limit por IP (proteçêo basica)
 const ipLimiter = rateLimit({
   windowMs: 60 * 1000,  // 1 minuto
   max: 20,               // 20 requests/min

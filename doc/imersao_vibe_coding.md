@@ -1,18 +1,18 @@
-# Imersão Vibe Coding (3 Dias / 6 Turnos)
+# Imersêo Vibe Coding (3 Dias / 6 Turnos)
 
-## Objetivo da Imersão
+## Objetivo da Imersêo
 
 Ensinar participantes a **construir um SaaS de assistentes com IA**
 usando Vibe Coding, passando por: - fundamentos - arquitetura -
-construção do produto - agentes e skills - assistentes e multibots -
-segurança, monetização e deploy
+construçêo do produto - agentes e skills - assistentes e multibots -
+segurança, monetizaçêo e deploy
 
 Ao final, cada aluno terá um **SaaS funcional com agentes de IA
 publicado online**.
 
 ------------------------------------------------------------------------
 
-# Estrutura da Imersão
+# Estrutura da Imersêo
 
 ## Dia 1
 
@@ -22,12 +22,12 @@ publicado online**.
 Ensinar como pensar e estruturar projetos usando IA como copiloto.
 
 **Conteúdo** - O que é Vibe Coding em 2026 - Como transformar ideias em
-software - Escopo de produto - Definição de problema - Definição de
-usuário - Fluxos de aplicação - Como escrever prompts estruturados -
+software - Escopo de produto - Definiçêo de problema - Definiçêo de
+usuário - Fluxos de aplicaçêo - Como escrever prompts estruturados -
 Erros comuns em projetos com IA
 
 **Entrega prática** - Ideia do projeto definida - Problema e usuário
-definidos - Fluxo principal do produto - Plano de construção do app
+definidos - Fluxo principal do produto - Plano de construçêo do app
 
 ------------------------------------------------------------------------
 
@@ -43,27 +43,27 @@ Exemplo:
 
 app/ agents/ prompts/ skills/ tools/ memory/ workflows/ docs/
 
--   Configuração de APIs
+-   Configuraçêo de APIs
 -   Variáveis de ambiente
 -   Contexto global vs contexto por agente
--   Planejamento de execução
+-   Planejamento de execuçêo
 
-Fluxo padrão: 1. Entrada 2. Decisão 3. Execução 4. Saída
+Fluxo padrêo: 1. Entrada 2. Decisêo 3. Execuçêo 4. Saída
 
-**Entrega prática** - Estrutura base do SaaS criada - Configuração
+**Entrega prática** - Estrutura base do SaaS criada - Configuraçêo
 inicial das APIs
 
 ------------------------------------------------------------------------
 
 # Dia 2
 
-### Turno 3 --- Construção do SaaS
+### Turno 3 --- Construçêo do SaaS
 
 **Objetivo:**\
 Criar o produto funcional.
 
-**Conteúdo** - Autenticação - Onboarding - Dashboard - Interface
-principal - Fluxo da aplicação
+**Conteúdo** - Autenticaçêo - Onboarding - Dashboard - Interface
+principal - Fluxo da aplicaçêo
 
 Fluxo:
 
@@ -88,9 +88,9 @@ Estados do sistema: - carregando - processando - erro - concluído
 **Objetivo:**\
 Adicionar inteligência ao sistema.
 
-**Conteúdo** - O que são agentes - Automação vs agentes inteligentes -
+**Conteúdo** - O que sêo agentes - Automaçêo vs agentes inteligentes -
 Multiagentes - Skills - Tools - MCP (Model Context Protocol) -
-Orquestração de agentes
+Orquestraçêo de agentes
 
 Exemplo:
 
@@ -101,7 +101,7 @@ Agente Revisor
 -   Memória curta e longa
 -   Handoff entre agentes
 
-**Entrega prática** - Integração de múltiplos agentes - Criação de pelo
+**Entrega prática** - Integraçêo de múltiplos agentes - Criaçêo de pelo
 menos uma skill
 
 ------------------------------------------------------------------------
@@ -122,32 +122,32 @@ Exemplos:
 -   Bot de vendas
 -   Bot de atendimento
 -   Bot de conteúdo
--   Bot de operação
+-   Bot de operaçêo
 
-Integração com canais: - Web - Telegram - WhatsApp
+Integraçêo com canais: - Web - Telegram - WhatsApp
 
-**Entrega prática** - Implementação de assistente ou multibot
+**Entrega prática** - Implementaçêo de assistente ou multibot
 
 ------------------------------------------------------------------------
 
-### Turno 6 --- Segurança, Billing e Operação
+### Turno 6 --- Segurança, Billing e Operaçêo
 
 **Objetivo:**\
-Preparar o produto para produção.
+Preparar o produto para produçêo.
 
-**Conteúdo** - Segurança de prompts - Proteção de API keys -
-Autenticação e autorização - Logs - Observabilidade - Monitoramento de
+**Conteúdo** - Segurança de prompts - Proteçêo de API keys -
+Autenticaçêo e autorizaçêo - Logs - Observabilidade - Monitoramento de
 erros - Pagamentos - Planos SaaS - Landing page - Analytics - Suporte -
-Manutenção evolutiva
+Manutençêo evolutiva
 
-**Entrega prática** - Aplicação publicada - Landing page criada -
-Estrutura mínima de monetização - Sistema básico de logs
+**Entrega prática** - Aplicaçêo publicada - Landing page criada -
+Estrutura mínima de monetizaçêo - Sistema básico de logs
 
 ------------------------------------------------------------------------
 
-# Produto Construído Durante a Imersão
+# Produto Construído Durante a Imersêo
 
-Os alunos construirão:
+Os alunos construirêo:
 
 ## Plataforma SaaS de Assistentes com IA
 
@@ -157,7 +157,7 @@ Exemplos de uso:
 -   Assistente de vendas
 -   Assistente de conteúdo
 -   Análise de documentos
--   Automação de tarefas
+-   Automaçêo de tarefas
 -   Atendimento inteligente
 
 Funcionalidades:
@@ -172,11 +172,11 @@ Funcionalidades:
 -   multibot
 -   pagamentos
 -   landing page
--   logs e manutenção
+-   logs e manutençêo
 
 ------------------------------------------------------------------------
 
-# Resultado Final da Imersão
+# Resultado Final da Imersêo
 
 Cada participante sairá com:
 
@@ -184,4 +184,4 @@ Cada participante sairá com:
 -   agentes inteligentes
 -   arquitetura escalável
 -   deploy realizado
--   base para monetização
+-   base para monetizaçêo
