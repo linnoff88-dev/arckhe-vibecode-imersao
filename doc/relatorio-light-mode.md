@@ -35,7 +35,7 @@
 - **Deveria ser:** `color: #a16207`
 
 ### 5. Cor `text-sky-400` sem override (49 arquivos)
-- Link "INEMA.CLUB" na navbar fica azul claro, contraste insuficiente
+- Link "ARCKHÉ AI" na navbar fica azul claro, contraste insuficiente
 - **Deveria ser:** `color: #0369a1`
 
 ### 6. Gradientes nao removidos no light mode (todos os modulos)

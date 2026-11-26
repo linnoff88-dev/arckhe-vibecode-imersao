@@ -3,7 +3,7 @@
 **Formato:** Imersao 3 dias / 6 turnos / 6 trilhas
 **Objetivo:** Construir um SaaS de assistentes com IA usando Vibe Coding
 **Entrega final:** SaaS funcional com agentes, deploy e monetizacao
-**URL:** https://inematds.github.io/vb-imersao/
+**URL:** https://linnoff88-dev.github.io/arckhe-/
 
 ---
 

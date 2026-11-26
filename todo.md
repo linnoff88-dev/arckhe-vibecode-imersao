@@ -78,5 +78,5 @@
 - [x] Landing page (index.html)
 - [x] Plano do curso (doc/plano_curso.md)
 - [x] Publicado no GitHub
-- [x] Adicionado ao portal inema.club
+- [x] Adicionado ao portal ARCKHÉ AI
 - [ ] GitHub Pages ativado
